@@ -8,9 +8,7 @@
 <h2 align="left">🚀 Links</h2>
 <p align="left">Here are some links of mine you might useful:</p>
 <p align="left">
-    <a href="https://github.com/mzhr/react-native-starter-kit"><img src="https://img.shields.io/badge/React_Native_Starter_Kit-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React Native Starter Kit" height="24"></a>
     <a href="https://github.com/mzhr/react-native-path-to-mastery"><img src="https://img.shields.io/badge/React_Native_Path_to_Mastery-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React Native Path to Mastery" height="24"></a>
-    <a href="https://linktr.ee/naseehahbot"><img src="https://img.shields.io/badge/Naseehah_Bot-🤖-brightgreen?style=flat-square" alt="Naseehah Bot" height="24"></a>
     <a href="https://github.com/mzhr/islam-datasets"><img src="https://img.shields.io/badge/Islam_Datasets-📊-blue?style=flat-squar" alt="Islam Datasets" height="24"></a>
 </p>
 
@@ -18,6 +16,5 @@
 <h2 align="left">📧 Get in Touch</h2>
 <p align="left">Feel free to contact me:</p>
 <p align="left">
-    <a href="https://twitter.com/mazhardev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter" height="24"></a>
     <a href="https://www.linkedin.com/in/mazhar-morshed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn" height="24"></a>
 </p>
